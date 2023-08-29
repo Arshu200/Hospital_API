@@ -1,4 +1,3 @@
-
 # 🏥 Hospital API
 
 The Hospital API project is a web-based application developed using Node.js and MongoDB. The primary goal of this project is to provide doctors with a platform where they can register, login, and manage patient reports. The application ensures that only registered doctors can create a patient's report and view all reports. Patients, on the other hand, cannot register themselves.
@@ -102,7 +101,7 @@ Returns a token valid for 11 days.
 
 ## Demo
 
- --followed by any of the above endpoints 🚀
+https://hospital-api-5vca.onrender.com --followed by any of the above endpoints 🚀
 
 
 ## Features
